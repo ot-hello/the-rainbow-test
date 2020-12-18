@@ -3,6 +3,8 @@ green
 yellow
 orange
 red
+amber
+tangerine
 purple
 unicorn
 pink 
