@@ -6,3 +6,4 @@ red
 purple
 pink 
 these are the colors of the rainbow
+i forgot to add blue
