@@ -6,6 +6,7 @@ red
 amber
 tangerine
 purple
+recycle!
 unicorn
 pony
 pink 
